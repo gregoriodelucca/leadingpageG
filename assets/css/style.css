@@ -102,9 +102,7 @@ nav .navlinks li a{
     width:100%;
     transition: 0.5s;
 }
-.hero-pic img:hover{
-    transform: scale(1.2);
-}
+
 .hero-text{
     max-width: 500px;
     display: flex;
@@ -139,6 +137,7 @@ nav .navlinks li a{
     border-radius: 30px;
     border:2px solid #e5e5e5;
     box-shadow:  0 10px 10px -8px rgb(0 0 0 / 78%);
+    
 }
 .btn.active{
     border-color: #007ced;
@@ -197,7 +196,7 @@ nav .navlinks li a{
     }
     nav .navlinks li a{
         display: block;
-        margin-bottom: 15px;
+        margin-bottom: 150px;
         text-align: center;
     }
     nav .navlinks.open{
